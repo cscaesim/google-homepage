@@ -1,0 +1,61 @@
+.header {
+    padding-top: 20px;
+}
+.left-menu {
+    padding: 20px;
+    display: inline;
+}
+
+.right-menu {
+    float: right;
+    padding-right: 30px;
+}
+
+a {
+    padding-left: 30px;
+}
+h1 {
+    color: blue;
+}
+
+.main {
+    text-align: center;
+    padding-top: 150px;
+}
+
+img {
+    padding: 30px;
+}
+
+.search {
+    width: 70%;
+    height: 42px;
+    box-shadow: 1px 1px 3px;
+    border-radius: 3px;
+    border: none;
+}
+
+.buttons {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.search-button {
+    border: none;
+    padding: 15px 32px;
+    background-color: #e7e7e7;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
+
+.lucky-button {
+    border: none;
+    padding: 15px 32px;
+    background-color: #e7e7e7;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
